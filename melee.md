@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=LRGJY_g0u7k&list=PLP7ddJEpezLck1dQnnr_hz6EFVxpdH9Pm&index=2
+
 
 woespike   https://www.pathofexile.com/trade/search/Keepers/d8rRQPjviJ
 defiance of destiny   https://www.pathofexile.com/trade/search/Keepers/Z6KmYD6EHQ
