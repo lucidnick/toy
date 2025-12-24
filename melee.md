@@ -125,6 +125,30 @@ Uulgraft   https://www.pathofexile.com/trade/search/Keepers/V5ldG38wFp
 Uulgraft   https://www.pathofexile.com/trade/search/Keepers/nr3Ly3eBC0
 
 
+
+https://poe.ninja/poe1/builds/keepers/character/hope0509-2817/%E5%BE%9E%E5%BE%9E%E5%AE%B9%E5%AE%B9%E5%9C%A8%E8%A3%82%E7%97%95%E7%8E%A9%E5%88%B0%E9%80%A3%E6%BB%BE%E5%B8%B6%E7%88%AC?i=0&search=items%3DThe%2BGrey%2BWind%252C!Mageblood%26min-ehp%3D100000%26sort%3Ddps
+
+
+
+
+https://poe.ninja/poe1/builds/keepers/character/gadabyte-6757/PantslessChristofascist?i=0&search=items%3DThe%2BGrey%2BWind%252C!Mageblood%26allskills%3DMultiple%2BTotems%2BSupport%26min-ehp%3D100000%26sort%3Ddps
+
+https://www.pathofexile.com/trade/search/Keepers/Yp9LgnLDIY
+1 Added Passive Skill is Ancestral Echo
+1 Added Passive Skill is Snaring Spirits
+https://www.pathofexile.com/trade/search/Keepers/rPlD4OV4HQ
+1 Added Passive Skill is Overwhelming Malice
+1 Added Passive Skill is Unholy Grace
+https://www.pathofexile.com/trade/search/Keepers/7nZyO4j7H5
+https://www.pathofexile.com/trade/search/Keepers/wvlw9BQnFb
+46% increased Attack Damage while affected by Precision
++49% to Chaos Resistance while affected by Purity of Elements
+
+
+
+
+
+
 流血免疫： 透過珠寶上的破裂詞綴 + 天賦刺青達成 100% 避免流血。
 中毒免疫： 透過珠寶工藝 + 天賦刺青達成 100% 避免中毒。
 腐化之血免疫： 珠寶瓦詞。
