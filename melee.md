@@ -61,6 +61,95 @@ Squeeze Spell
 ​这赛季有什么不得不品可能会绝版的bd么?
 命中人，百分百mom
 秽生的雷火戒吧，没秽生了之后没那么爆炸了
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grey Wind PERFORATE Totems Hierophant - Build Overview (HC) | Path of Exile 3.27
+https://www.youtube.com/watch?v=FCm2pP1fN3o
+https://pobb.in/8YKFKGWdXQjJ
+https://poe.ninja/poe1/builds/keepershc/character/Dreamcore_thereal-4964/DreamcoreLifeBig
+https://pobarchives.com/builds/hjnwLqFK?author=Jorgen
+
+The Balance of Terror   https://www.pathofexile.com/trade/search/Keepers/glkV0lrdcQ
+The Grey Wind   https://www.pathofexile.com/trade/search/Keepers/q9Zk2r8WCg
+Rathpith Globe   https://www.pathofexile.com/trade/search/Keepers/6zM7EkQ9UG
+Crown of Eyes   https://www.pathofexile.com/trade/search/Keepers/eR6el08YsL
+Dawnstrider   https://www.pathofexile.com/trade/search/Keepers/pJw8q8L3H0
+Kaom's Heart   https://www.pathofexile.com/trade/search/Keepers/eRGyEapbFL
+Foulborn The Red Nightmare   https://www.pathofexile.com/trade/search/Keepers/Yp9YyXjRiY
+Tattoo of the Valako Shieldbearer +1% Chance to Block Attack Damage
+Tattoo of the Tawhoa Scout  10% chance to Avoid being Poisoned
+Tattoo of the Ngamahu Firewalker  +6% to Fire Resistance
+Tattoo of the Kitava Rebel  10% chance to Avoid Bleeding
+Eye Jewel   https://www.pathofexile.com/trade/search/Keepers/aL6l6pX8Se
+Eye Jewel   https://www.pathofexile.com/trade/search/Keepers/JBg03qZJsl
+Corrupted Blood cannot be inflicted on you
+Jewel   https://www.pathofexile.com/trade/search/Keepers/9zJmQQmzHK
+Dissolution of the Flesh   https://www.pathofexile.com/trade/search/Keepers/OgL6L0pKUE
+Replica Reckless Defence   https://www.pathofexile.com/trade/search/Keepers/QL3ZedZptw
+Atziri's Promise Amethyst Flask   https://www.pathofexile.com/trade/search/Keepers/4mM56MVEc9
+Quartz Flask   https://www.pathofexile.com/trade/search/Keepers/zbM4l8Zah4
+Quicksilver Flask   https://www.pathofexile.com/trade/search/Keepers/Kln0XGQPI5
+Iron Flask   https://www.pathofexile.com/trade/search/Keepers/lgVEkkgkuV
+Corundum Flask   https://www.pathofexile.com/trade/search/Keepers/pJo5kl7eS0
+reduced Effect of Curses on you during Effect
+increased Armour during Effect
+increased Ward during Effect
+Chance to Avoid being Stunned during Effect
+Sapphire Flask    https://www.pathofexile.com/trade/search/Keepers/d8r9Y6GZFJ
+Uulgraft   https://www.pathofexile.com/trade/search/Keepers/V5ldG38wFp
+Uulgraft   https://www.pathofexile.com/trade/search/Keepers/nr3Ly3eBC0
+
+
+流血免疫： 透過珠寶上的破裂詞綴 + 天賦刺青達成 100% 避免流血。
+中毒免疫： 透過珠寶工藝 + 天賦刺青達成 100% 避免中毒。
+腐化之血免疫： 珠寶瓦詞。
+燃燒地面免疫： 萬神殿 (Abberath)。
+使用鋼鐵藥劑 (Iron Flask) 提供微量結界，用來抵擋極小的傷害，避免因小傷害而重置「2 秒未受傷」的計時。
+
+ring increased maximum Life    https://www.pathofexile.com/trade/search/Keepers/YpBM7vqbhY
+
+The Red Dream Crimson Jewel   https://www.pathofexile.com/trade/search/Keepers/7nr0Xva2S5
+
+邪生．思想與動作之手 (Foulborn Hand of Thought and Motion)
+這個物品催生了本季最強大的流派之一：命中與智慧堆疊勇士。
+核心詞綴： 「每 25 點智慧增加 5% 命中值」。
+命中專精 (Accuracy Mastery)： 獲得等同於智慧的基礎命中值。
+能量護盾專精： 每 10 點智慧增加 2% 閃避值。
+塑界者之觸 (Shaper's Touch)： 手套，提供更多屬性加成。
+風暴行者長靴 (Stormrider Boots)： 提供基礎閃電傷害。
+勇士昇華 - 無可置疑 (Undeniable)： 根據命中值提供巨量攻擊速度。
+評價： 這個流派非常強大，雖然這把邪生爪子可能有點「過強」，但它讓這種機制得以實現是非常棒的，希望它能進入核心遊戲（即使被削弱）。
+
+邪生．艾施之鏡 (Foulborn Esh's Mirror)： 提供較容易取得的「反射傷害免疫」，約有 2% 的 95 等以上角色使用（主要是銳眼 Deadeye）。
+
+
+
+
 【閒聊】穢生雷火戒原來能炸整片是這樣
 Berek's Respite Two-Stone Ring
 https://www.pathofexile.com/trade/search/Keepers/ky3lP7ZWh5
