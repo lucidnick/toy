@@ -63,4 +63,72 @@ Allocates No Forgiveness (enchant)
 +70% to Global Critical Strike Multiplier (implicit)
 22% increased maximum Life (implicit)
 Implicit Modifier magnitudes are doubled
+
+
+
+
+
+
+
+
+
+
+
+https://pobb.in/3uagwoRHHsuf
+改過得blazing
+
+Runegraft of the Warp
+Runegraft of the Witchmark
+Tattoo of the Kitava Rebel
+Tattoo of the Tukohama Shaman
+Tattoo of the Kitava Heart Eater 4
+Tattoo of the Tawhoa Warrior 10
+防毒 腐血
+https://www.pathofexile.com/trade/search/Keepers/rPRaRongfQ
+防毒鞋
+https://www.pathofexile.com/trade/search/Keepers/5nLdLRejSa
+Tattoo of the Tawhoa Scout 取代 小型敏捷 天賦 10% chance to Avoid being Poisoned
+防毒水
+https://www.pathofexile.com/trade/search/Keepers/glZD3J3dcQ
+https://www.pathofexile.com/trade/search/Keepers/3qL6kWkPS5
+Immunity to Poison during Effect
+Grants Immunity to Poison for # seconds if used while Poisoned
+其他水 diamond bismuth silver quicksilver mana
+https://www.pathofexile.com/trade/search/Keepers/6zLB3Jg9FG
+64% reduced Effect of Curses on you during Effect
+55% chance to Avoid being Shocked during Effect
+55% increased Critical Strike Chance during Effect
+20% additional Elemental Resistances during Effect
+防感電鞋珠寶
+https://www.pathofexile.com/trade/search/Keepers/8rLR8OdnFV
+chance to Avoid being Shocked
+防腐血
+https://www.pathofexile.com/trade/search/Keepers/PPbaYe57FL
+接枝
+https://www.pathofexile.com/trade/search/Keepers/2Kmz2WqoFk
+Uses level # Return to Dust	
+#% increased maximum Life 14
+Skills used by this Graft have #% increased Cooldown Recovery Rate	
+Uses level # Tender Embrace
+魔法珠寶
+https://www.pathofexile.com/trade/search/Keepers/q9RlVj3dug
+星團
+https://www.pathofexile.com/trade/search/Keepers/8rLREvJ2sV
+https://poedb.tw/us/Large_Cluster_Jewel_affliction_spell_damage
+Added Passive Skill is Arcane Adept
+Added Passive Skill is Seal Mender
+Added Passive Skill is Conjured Wall **
+Added Passive Skill is Arcane Heroism
+Added Passive Skill is Practiced Caster
+Added Passive Skill is Burden Projection
+Added Passive Skill is Mage Hunter **
+
+Replica Reckless Defence   https://www.pathofexile.com/trade/search/Keepers/pJYwDok3H0
+The Balance of Terror   https://www.pathofexile.com/trade/search/Keepers/glkV0lrdcQ
+
+Eyes of the Greatwolf
+Greatwolf Talisman
++70% to Global Critical Strike Multiplier (implicit)
+22% increased maximum Life (implicit)
+
 ```
