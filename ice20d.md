@@ -77,6 +77,7 @@ Daresso's Courage
 項鍊
 Ashes of the Stars 要確保屬性＋19，用attribute catalysts
 {crafted}Allocates Brink of Death 回血4%
+可以考慮 https://www.pathofexile.com/trade/search/Keepers/yYMLl338fR
 戒指
 The Hungry Loop 吃寶石，腐化後在吃，或者吃之後不要再腐化
 Minion Life Support
