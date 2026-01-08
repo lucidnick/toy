@@ -288,6 +288,123 @@ Regex:
 
 
 
+Forbidden Flame Frigid Wake 200c + 5d
+https://www.pathofexile.com/trade/search/Keepers/LgBJvLnZCn
+https://www.pathofexile.com/trade/search/Keepers/pJYoVbq5u0
+三相
++22% to Damage over Time Multiplier while affected by Malevolence
+Regenerate 1.07% of Life per second while affected by Vitality
+
+Nearby Enemies have +#% to Cold Resistance
+Nearby Enemies take #% increased Elemental Damage
+Nearby Enemies have -9% to Cold Resistance
+Nearby Enemies take 6% increased Elemental Damage
+{tags:resource,life}{crafted}{range:0.5}(7-8)% increased Life Regeneration rate
++8% increased Life Regeneration rate
+守衛頭
+https://www.pathofexile.com/trade/search/Keepers/PPbBWg9gUL
+
+Soul Taker
+https://www.pathofexile.com/trade/search/Keepers/LgBKnjg7Tn
+Kingmaker
+https://www.pathofexile.com/trade/search/Keepers/KlY8mz0LF5
+Heartbreaker
+https://www.pathofexile.com/trade/search/Keepers/bGk2DrOauL
+
+腰帶新科研
+https://www.pathofexile.com/trade/search/Keepers/KlrWjlZEU5
+https://www.pathofexile.com/trade/search/Keepers/RJ6Q3a0aF7
+
+頭盔
+https://www.pathofexile.com/trade/search/Keepers/q9Rro0WWCg
+https://www.pathofexile.com/trade/search/Keepers/YpZeDQBOIY
+Armour: 247
+Energy Shield: 50
+-2 to Level of Socketed Support Gems
++2 to Level of Socketed Skill Gems
+
+珠寶 發現有加保留的
+https://www.pathofexile.com/trade/search/Keepers/EBrYoBz0H5
+https://www.pathofexile.com/trade/search/Keepers/X3oYqk7KiP
+
+守衛手套
+https://www.pathofexile.com/trade/search/Keepers/3qLy7d2JF5
+https://www.pathofexile.com/trade/search/Keepers/Wv6lEjdbum
+https://www.pathofexile.com/trade/search/Keepers/Lg5V03QBtn
+https://www.pathofexile.com/trade/search/Keepers/Md370Kd5FJ
+https://www.pathofexile.com/trade/search/Keepers/3qLyVyY9f5
+
+Replica Volkuur's Guidance
+Curse Enemies with Elemental Weakness on Hit
+{range:0.5}+(29-41)% to Chaos Resistance
+
+守衛盾牌
+https://www.pathofexile.com/trade/search/Keepers/7nLJPzj2S5
+https://www.pathofexile.com/trade/search/Keepers/G65EJg28cb
+https://www.pathofexile.com/trade/search/Keepers/QLMO9aEpuw
+
+Sap Enemies when you Block their Damage
+75% increased Chance to Block
+Recover 5% of Energy Shield when you Block
+{tags:block}{crafted}{range:1}(5-6)% Chance to Block Spell Damage
+
++12500 to maximum Life
+40% increased maximum Life
+40% increased maximum Life
+16% increased maximum Life
++53% to Chaos Resistance
++30% to Chaos Resistance
+Gain 20% of Maximum Life as Extra Maximum Energy Shield
++20% to all Elemental Resistances
+
+
+https://bbs.nga.cn/read.php?tid=44649321
+精兵头盔
+缝合面罩xxx的，10d左右吧
+
+一般就王者斧头 缝合恶魔之面(如果你不是召唤，天赋要拿那个召唤物20%额外es)，
+无常法袍，黄鞋子补抗加生命回复率，红蓝上缀一个你要的地面一个生命回血率
+黄手套生命回复率，红蓝上缀补一个击中威吓/恐惧
+
+鞋子还有条件可以精华点个免毒
+不是召唤没有天赋的话，唯一选择就是欺诈獠牙 Gruthkul's Pelt 加免疫异常状态伤害的鞋子
+卡胡圖羅亞的確信 Kahuturoa's Certainty Ancient Greaves
+遠古脛甲
+我之前穿无常法袍幻化守卫带的这个，偶尔比负电佣兵还硬，不过还是太偏猴了，只有4 连或者 6 连没什么技能连再考虑。
+
+我发现没天赋点去点召唤天赋，那还有用恶魔面罩的必要吗
+没有，一定要有额外es，不然只能放弃这个头老实堆回血
+看起来比欺诈獠牙好，你试试呗，俩都不值钱
+好的，大佬，守卫需要考虑腐化之血和反射吗
+不考虑，也没办法考虑
+客气，幻化守卫不是召唤的话，就顶天6连，抗性能满，但其他的都没办法，基础生命大概有10来万，有一点回复存活就很好了。
+堆等级技能加的基础生命很高, 天赋上多找点生命额外ES, 缝合头+无常法袍(有钱可以找带生命额外ES的基底), 手套和鞋补点抗性, 然后生命再生率这条也很有用, 召唤职业能堆到10w+生命 100%秒回, 其他职业应该差点
+
+Mask of the Stitched Demon
+缝合恶魔面罩
+守衛現在不會永久死亡,可以放心上比較貴的裝備
+
+- 頭盔: 簡單一點用50%傷害頭,高級一點可以用奧爾頭,或是附近敵人-混抗黃裝
+- 衣服: 無常 or 卡斯普里+1咒,個人推薦無常拿免暴
+- 手套: 安賽手 - 時空詛咒提升生存&一點傷害,爆炸讓你刷圖更絲滑
+  • 衣服用卡斯普里的話可以拿命中衰弱,也可以直接拿絕望,不過很貴(台服)又收益低
+- 鞋子: 惡風足跡 !!! 重要 - 要有這個+1咒才不會擠掉你的絕望
+- 武器: 有錢王者斧,沒錢用亡者之息(便宜好用)
+
+Crown of the Tyrant
+堂皇冠冕
+
+Hands of the High Templar
+Can be modified while Corrupted
+Can have up to 5 Implicit Modifiers while Item has this Modifier
+(7-12)% increased maximum Life
++(20-30)% to Fire and Lightning Resistances
+https://www.pathofexile.com/trade/search/Keepers/veZdOdPWIE
+
+【攻略】【心得】【Takumi】3.23 幻化守衛全方位配置大全，一起來打造絕對不死的守衛！
+
+
+
 
 
 
