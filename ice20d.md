@@ -443,6 +443,7 @@ https://poe.ninja/poe1/builds/keepers/character/SkantMan-7875/gonewhittime?i=0&s
 天賦多點一些格檔 穿格檔盾
 https://www.pathofexile.com/trade/search/Keepers/d8qVydDRiJ
 https://www.pathofexile.com/trade/search/Keepers/8rznBnzZIV
+https://www.pathofexile.com/trade/search/Keepers/2Kp4QGMGck
 卡魯
 https://www.pathofexile.com/trade/search/Keepers/3qknv7V9t5
 魯莽 在自己找找
