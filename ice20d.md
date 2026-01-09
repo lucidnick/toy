@@ -417,6 +417,93 @@ https://www.pathofexile.com/trade/search/Keepers/veZdOdPWIE
 
 
 
+https://www.reddit.com/r/PathOfExileBuilds/comments/187ug1e/ultimatum_is_back_what_were_your_favorite_builds/
+4L vaal ice nova to freeze everythin
+
+
+[3.25] CoC Ice Nova of Frostbolts Build | Occultist | Settlers of Kalguur | Path of Exile 3.25
+https://www.pathofexile.com/forum/view-thread/3543803
+Prism Guardian
+
+[POE 3.25] 19 minutes AFK FULL Simulacrum run!!! Upgraded 30 div version. "0" button build still xDD
+https://www.youtube.com/watch?v=HfZQLJDJ6hI
+Ice Nova of frostbolt price for level 21, it's 4 div
+https://pobb.in/WNMOn-rlQf-9
+You can also afk ultimatum easily, just avoid the blood altar, 
+corrupted blood LVL4, and 2% dmg ramp per second and you'll be all good.
+
+Use THIS TRICK to get ENERGY SHIELD LEECH ON ANY BUILD!!
+
+https://www.youtube.com/watch?v=GbzHuIXL8Bg
+
+
+
+https://poe.ninja/poe1/builds/keepers/character/SkantMan-7875/gonewhittime?i=0&search=class%3DElementalist%26allskills%3D!Cast%2Bwhen%2BStunned%2BSupport%26skills%3DCreeping%2BFrost%252CVaal%2BCold%2BSnap%26atlasheatmap%3Dtrue
+回頭找了個大哥抄筆記
+天賦多點一些格檔 穿格檔盾
+https://www.pathofexile.com/trade/search/Keepers/d8qVydDRiJ
+https://www.pathofexile.com/trade/search/Keepers/8rznBnzZIV
+卡魯
+https://www.pathofexile.com/trade/search/Keepers/3qknv7V9t5
+魯莽 在自己找找
+https://www.pathofexile.com/trade/search/Keepers/4mM3BkLMt9
+
+Wellwater Phylactery Colossal Mana Flask 用這個不知道好不好
+https://www.pathofexile.com/trade/search/Keepers/X3eLo2jbuP
+這個奉獻地面也不錯
+https://www.pathofexile.com/trade/search/Keepers/pJYwG2Peu0
+複合水 實驗看看能不能開火
+https://www.pathofexile.com/trade/search/Keepers/wvkr3vXdFb
+
+加格檔的珠寶
+https://www.pathofexile.com/trade/search/Keepers/JBWZPKyail
+https://www.pathofexile.com/trade/search/Keepers/Z6gWdYdESQ
++#% Chance to Block Spell Damage while holding a Shield
+
+希望還買的到這個盾
+Rarity: RARE
+Vortex Guard
+Champion Kite Shield
+Armour: 506
+ArmourBasePercentile: 0.4369
+Energy Shield: 104
+EnergyShieldBasePercentile: 0.5105
+Shaper Item
+Item Level: 85
+Quality: 27
+Sockets: R-R B
+LevelReq: 62
+Implicits: 0
+74% increased Chance to Block
++33 to Intelligence
++148 to maximum Life
+22% chance to Avoid Elemental Ailments
+Recover 5% of Energy Shield when you Block
+{crafted}74% increased Armour and Energy Shield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
