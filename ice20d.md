@@ -323,6 +323,7 @@ Armour: 247
 Energy Shield: 50
 -2 to Level of Socketed Support Gems
 +2 to Level of Socketed Skill Gems
+420es 50c https://www.pathofexile.com/trade/search/Keepers/V5YEwknaup
 
 珠寶 發現有加保留的
 https://www.pathofexile.com/trade/search/Keepers/EBrYoBz0H5
