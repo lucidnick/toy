@@ -314,6 +314,7 @@ https://www.pathofexile.com/trade/search/Keepers/bGk2DrOauL
 腰帶新科研
 https://www.pathofexile.com/trade/search/Keepers/KlrWjlZEU5
 https://www.pathofexile.com/trade/search/Keepers/RJ6Q3a0aF7
+https://www.pathofexile.com/trade/search/Keepers/zb0Bnv5qU4
 
 頭盔
 https://www.pathofexile.com/trade/search/Keepers/q9Rro0WWCg
