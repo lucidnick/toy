@@ -31,4 +31,126 @@ ban legion expedition abyss deli ritual
 https://www.reddit.com/r/PathOfExileBuilds/comments/1p5d6vb/how_to_efficiently_fish_for_svalinnstarfall_crater/
 
 https://maxroll.gg/poe/currency/red-maps-bestiary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.poe-vault.com/guides/atlas-passive-skill-tree-strategies
+80% Deli farm
+Deli: https://poeplanner.com/a/twl
+Map: Dunes
+Scarabs: 2x Delirium Scarab of Mania and 3x Delirium Scarab of Paranoia
+Orbs: 4x Fine Delirium Orb (Currency) or 4x Diviner’s Delirium Orb (Stacked Decks).
+Skittering Delirium Orb 24c
+Fine Delirium Orb 12c
+Diviner's Delirium Orb 12c
+
+https://poeplanner.com/a/tDW
+All Harbinger Scarabs. Not the obelisk
+
+
+Harbinger Scarab of Regency
+https://www.reddit.com/r/pathofexile/comments/1pm1j1q/regency_harbinger_scarab/
+https://youtu.be/E-TOHDqAvbM?si=6ZvxSJZIrwtZ302e
+
+https://maxroll.gg/poe/currency/beyond-harbinger-scarab-farming
+Harbinger Scarab x3
+Harbinger Scarab of Regency
+Beyond Scarab of the Invasion
+avoid
+Rare Monsters have Volatile Cores
+Area contains Unstable Tentacle Fiends
+and Players and their Minions deal no damage for 3 out of every 10 seconds.
+"!acl|vola|ever" "sca.*\d..%"
+
+Armoursmith's Delirium Orb - Use 1 Delirium Orb of any type to add more monsters into your Maps.
+
+https://maxroll.gg/poe/currency/city-square-harbinger
+Kirac Modifier - 3 additional Harbingers (3 Chaos Orbs)
+3x Harbinger Scarab
+Harbinger Scarab of Regency
+Harbinger Scarab of Obelisks
+Harbinger Scarab of Warhoards - Replace a Harbinger Scarab if you can afford to run this scarab.
+
+does beyond scale with item quantity
+
+Poe 3 27 Harbinger budget scarab farm (29 Div/h)
+https://www.youtube.com/watch?v=AbeNChqhdb4
+
+https://maxroll.gg/poe/currency/ambush
+For Tier 17 roll your Maps for either 100% more Scarabs or 140% more Currency
+Eldritch Influence - Eater of Worlds
+Ambush - 5 Additional Strongboxes (3 Chaos Orbs)
+Ambush Scarab of Discernment
+Ambush Scarab of Hidden Compartments
+Ambush Scarab of Potency / Ambush Scarab
+Ambush Scarab
+Ambush Scarab
+
+https://wealthyexile.com/strategies/1343/strongbox_8_mods__fastlow_investment
+
+https://poe.ninja/poe1/builds/keepers?atlasids=58043%2C20321%2C5730%2C30954%2C30266%2C64462%2C60117%2C4800%2C25273%2C62028%2C25301%2C32784%2C16780%2C1444%2C13373&atlasheatmap=true
+
+https://www.reddit.com/r/PathOfExileBuilds/comments/1bxplxg/is_beyond_useless_two_atlas_skill_trees_to/
+
+我試試看
+https://poeplanner.com/a/667k ambush beyond
+5 scarabs:
+Beyond Scarab of the Invasion
+Ambush Scarab of Discernment
+Ambush Scarab of Hidden Compartments
+Ambush Scarab of Potency
+Ambush Scarab
+Kirac Modifier: ambush
+
+The Swap: Replace Ambush Scarab of Potency with Anarchy Scarab of Gigantification.
+Why it works: You will have giant Rogue Exiles everywhere. Each time you kill one, you instantly spawn a massive cluster of Beyond demons.
+Atlas Tree: Take the "Rogue Exile" nodes (Vile Resurgence).
+Result: This turns your map into a constant explosion of Beyond spawns.
+
+Recommended "Mixed" Setup (The Balanced Version):
+Beyond Scarab of the Invasion (Your engine)
+
+Ambush Scarab of Discernment (Your quality)
+Ambush Scarab of Hidden Compartments (Your double loot)
+Domination Scarab (Adds Shrines/Buffs/Rares)
+Anarchy Scarab (Adds Rogue Exiles for massive Beyond triggers)
+Kirac: Ambush
+
+https://poeplanner.com/a/667C beyond harbinger
+ambush around 18points
+
+Fenumal Plagued Arachnid.
+The Cost: Usually 0.5 to 1 Divine
+
+The "Ambush/Beyond" strat works best in Jungle Valley.
+
+Scarabs to use for farming maps:
+2x Cartography Scarab
+1x Cartography Scarab of Corruption
+1x Cartography Scarab of Multitude
+
 ```
