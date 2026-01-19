@@ -1,4 +1,52 @@
 ```
+Divination Scarab of Pilfering
+Divination Scarab of Curation
+Divination Scarab of Plenty
+Influence Scarab of Hordes
+Kirac Modifier: Delirium
+Anarchy Scarab + Beyond Scarab of the Invasion
+
+Influence Scarab of Hordes
+Domination Scarab
+Anarchy Scarab
+
+HARDJUICING for Divination Scarab of Pilfering without strongboxes - Based or Cringe?
+https://www.youtube.com/watch?v=2lS14RaeXsY
+https://poeplanner.com/a/6LEz
+https://poe.ninja/poe1/builds/keepers?atlasids=25892%2C3774%2C43948%2C58043%2C30266%2C64462%2C30954%2C25273%2C45252%2C65239%2C49919&atlasheatmap=true
+https://poe.ninja/poe1/builds/keepers?atlasids=25892%2C3774%2C43948%2C58043%2C30266%2C64462%2C25273%2C45252%2C49919%2C24007%2C16780%2C5723&atlasheatmap=true
+https://poe.ninja/poe1/builds/keepers?atlasids=25892%2C3774%2C43948%2C58043%2C30266%2C64462%2C25273%2C45252%2C49919%2C24007%2C16780%2C37120&name=%E4%BA%BA&atlasheatmap=true
+https://poeplanner.com/a/66zb
+https://poe.ninja/poe1/builds/keepers?atlasids=20321%2C25892%2C58043%2C63758%2C16780%2C33008%2C41053%2C47914%2C24007%2C62028%2C64740%2C37120%2C10530&atlasheatmap=true
+https://poe.ninja/poe1/builds/keepers?atlasids=20321%2C25892%2C58043%2C63758%2C16780%2C33008%2C41053%2C47914%2C24007%2C62028%2C64740%2C37120%2C45670&atlasheatmap=true
+https://poeplanner.com/a/66z1
+買個秒回看守
+https://www.pathofexile.com/trade/search/Keepers/02V9JRQ7Fg
+買個防點燃
+https://www.pathofexile.com/trade/search/Keepers/V5YkWBYPtp
+買個Elemental Proliferation 串 Orb of Storms
+先買個frigid wake 快快快
+還是穿上Garb of the Ephemeral好了
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://www.reddit.com/r/PathOfExileBuilds/comments/1g1nrcw/t16_vs_t17_titanic_blightheart_comparison_100/?tl=zh-hant
 
 
