@@ -1,4 +1,23 @@
 ```
+Divination Scarab of Pilfering (竊取)：核心。 必須佔一格。它把整場 2 分鐘的收益全部濃縮在 Boss 身上。
+Influence Scarab of Hordes (勢力群落)：核心。 必須佔一格。
+Divination Scarab of Plenty (豐饒)：疊加 x2。
+Divination Scarab of Plenty (豐饒)：(同上)
+Scarab of Monstrous Lineage 
+
+https://poeplanner.com/a/66rp
+https://poeplanner.com/a/66rB
+
+
+
+
+
+
+
+
+
+
+
 Divination Scarab of Pilfering
 Divination Scarab of Curation
 Divination Scarab of Plenty
