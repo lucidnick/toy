@@ -13,6 +13,57 @@ https://pobb.in/9LFhxoM8mlbl
 
 ```
 
+一些裝備
+<details>
+
+```
+You cannot be Maimed
++1 to Maximum Endurance Charges
+
+藥水
+Masochist's Topaz Flask of Bog Moss
+Gain 2 Charges when you are Hit by an Enemy
+51% chance to Avoid being Shocked during Effect
+Masochist's Ruby Flask of the Kaleidoscope
+Gain 2 Charges when you are Hit by an Enemy
+16% additional Elemental Resistances during Effect
+Flagellant's Sapphire Flask of the Order
+Gain 3 Charges when you are Hit by an Enemy
+{crafted}Regenerate 3% of Life per second during Effect
+Masochist's Basalt Flask of the Curlew
+Gain 2 Charges when you are Hit by an Enemy
+48% reduced Effect of Curses on you during Effect
+Masochist's Sulphur Flask of Stabilisation
+{crafted}Used when you Hit a Rare or Unique Enemy, if not already in effect
+Creates Consecrated Ground on Use
+Gain 2 Charges when you are Hit by an Enemy
+80% increased Block and Stun Recovery during Effect
+
+
+The Brass Dome Gladiator Plate bbbgrr
+https://www.pathofexile.com/trade/search/Keepers/6zKmjzGXUG
+項鍊 https://www.pathofexile.com/trade/search/Keepers/2KpMEeg5Uk
+戒指 https://www.pathofexile.com/trade/search/Keepers/q9GD8Rodsg
+戒指 https://www.pathofexile.com/trade/search/Keepers/2KpkezGjfk
+鞋子 https://www.pathofexile.com/trade/search/Keepers/vewJb6LJTE
+珠寶 https://www.pathofexile.com/trade/search/Keepers/Z6qbe0qYTQ
+珠寶 https://www.pathofexile.com/trade/search/Keepers/D6lXQr2VS5
+珠寶 https://www.pathofexile.com/trade/search/Keepers/Bg43G8YKu8
+珠寶 https://www.pathofexile.com/trade/search/Keepers/eREvkY56iL
+Elegant Hubris Caspiro
+eternal_notable_endurance_3, 5.376, 0, 0
+eternal_notable_spell_1, 9.372, 0, 0
+eternal_notable_block_2, 29.282, 0, 0
+珠寶 https://www.pathofexile.com/trade/search/Keepers/PPWnPoakIL
+珠寶 https://www.pathofexile.com/trade/search/Keepers/LgnXgln2Hn
+
+Azadi Crest rgr
+or rg b +2 to Level of Socketed Curse Gems
++1% to maximum Chance to Block Attack Damage
+https://www.pathofexile.com/trade/search/Keepers/pJGkKQGWu0
+```
+</details>
+
 這個頭盔看起來還可以
 <details>
 
