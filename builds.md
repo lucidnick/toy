@@ -14,4 +14,7 @@ Sanctum Rush Pob: https://pobb.in/yZDbiHP993xE
 Vaal Cold Snap Pob: https://pobb.in/isMVDM_w4-YH
 
 https://pobarchives.com/builds/poe/cJ7rdyWU
+
+https://mobalytics.gg/poe/builds/lucky-block-cws-gladiator
+https://pobb.in/Kvf3m4d6cAPy
 ```
