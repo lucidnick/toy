@@ -74,28 +74,28 @@ https://www.pathofexile.com/trade/search/Keepers/pJGkKQGWu0
 ```
 https://www.pathofexile.com/trade/search/Keepers/nrGmMgMMH0
 https://www.pathofexile.com/trade/search/Keepers/JBW4o27ail
+https://www.pathofexile.com/trade/search/Keepers/eREOXVP6hL
 
-Apocalypse Halo
+Rarity: RARE
+Brimstone Peak
 Blizzard Crown
-Evasion: 242
-EvasionBasePercentile: 0.6173
-Energy Shield: 49
-EnergyShieldBasePercentile: 0.5667
-Shaper Item
-Item Level: 83
-Quality: 20
-Sockets: B-B-B-B
+Evasion: 186
+EvasionBasePercentile: 0.037
+Energy Shield: 38
+EnergyShieldBasePercentile: 0
+Item Level: 81
+Quality: 0
+Sockets: G-B
 LevelReq: 75
 Implicits: 2
-Adds 75 to 124 Cold Damage
+Adds 75 to 120 Cold Damage
 Your Hits treat Cold Resistance as 10% higher than actual value
-Socketed Gems are Supported by Level 18 Hypothermia
-Socketed Gems deal 30% more Damage while on Low Life
-+105 to maximum Life
-23% increased Rarity of Items found
-13% increased Effect of Cold Ailments
-{crafted}+1 to Level of Socketed AoE Gems
-{crafted}9% increased Area of Effect
++137 to maximum Life
+Regenerate 127.5 Life per second
++38 to maximum Mana
+22% increased Rarity of Items found
++42% to Lightning Resistance
+{crafted}5% increased Life Regeneration rate
 ```
 </details>
 
