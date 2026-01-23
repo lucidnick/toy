@@ -43,6 +43,7 @@ Gain 2 Charges when you are Hit by an Enemy
 The Brass Dome Gladiator Plate bbbgrr
 https://www.pathofexile.com/trade/search/Keepers/6zKmjzGXUG
 項鍊 https://www.pathofexile.com/trade/search/Keepers/2KpMEeg5Uk
+格檔項鍊加一咒 https://www.pathofexile.com/trade/search/Keepers/opV0r4MrIl
 戒指 https://www.pathofexile.com/trade/search/Keepers/q9GD8Rodsg
 戒指 https://www.pathofexile.com/trade/search/Keepers/2KpkezGjfk
 鞋子 https://www.pathofexile.com/trade/search/Keepers/vewJb6LJTE
