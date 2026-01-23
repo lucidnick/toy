@@ -60,6 +60,7 @@ eternal_notable_block_2, 29.282, 0, 0
 腐血珠寶帶法格 https://www.pathofexile.com/trade/search/Keepers/lgGO05optV
 看守迷蹤擊回 https://www.pathofexile.com/trade/search/Keepers/eREOBnXnIL
 物免頭盔 https://www.pathofexile.com/trade/search/Keepers/Z6g4bb4zSQ
+考慮乾脆上ward頭 https://www.pathofexile.com/trade/search/Keepers/eREOwDG9hL
 
 Azadi Crest rgr
 or rg b +2 to Level of Socketed Curse Gems
