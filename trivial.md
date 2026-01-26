@@ -2,6 +2,7 @@
 https://mapsofexile.com/
 https://maxroll.gg/poe/category/currency
 https://wealthyexile.com/strategies/public
+www.pathofpathing.com
 
 
 一些knowhow與有興趣的build
