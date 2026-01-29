@@ -18,4 +18,9 @@ The Aul Bloodline is a Bloodline Ascendancy class. It can be obtained by defeati
 只要該技能的 「附加傷害效用」 夠高，都能享受這根大棒帶來的恐怖加成。
 
 Jiquani's Potential Imperial Staff Requires Level 66
+
+胸甲： 幽魂寫照 (Ghostwrithe) —— 大量能量護盾來源。
+飾品： 均衡之符 (Astramentis)、全能之環 (Hoop of All) —— 撐起全屬性。
+腰帶： 巨磁之石 (The Magnate) —— 提供力量與兩倍/三倍傷害。
+Coruscating Elixir
 ```
