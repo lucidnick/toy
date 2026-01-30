@@ -17,4 +17,11 @@ https://pobarchives.com/builds/poe/cJ7rdyWU
 
 https://mobalytics.gg/poe/builds/lucky-block-cws-gladiator
 https://pobb.in/Kvf3m4d6cAPy
+
+冰霜之語 (Whispering Ice)
+旋風斬 (Cyclone) + 施法時施放 (CWC) + 冰霜之語（自動產生「冰泉 Icestorm」）。
+塑界者之觸 (Shaper's Touch)： 這流派的核心手套。它能將屬性堆疊中的「力量」轉化為大量的能量護盾（ES），與「智力」產生完美的協同效應。
+擊中回復 ES (ES on Hit)： 透過塑界者影響力（Shaper influence）的戒指取得。由於「冰泉」的打擊頻率極高，這能提供極其恐怖的瞬間回盾能力。
+逃亡者之靴 (The Stampede)： 這雙鞋子的特性是「你可以擁有第二個項鍊塗油 (Anoint)」。
+https://poe.ninja/poe1/builds/phrecia/character/GreenSpandex-3038/JizzOnMySpandex
 ```
