@@ -27,6 +27,7 @@ The Aul Bloodline is a Bloodline Ascendancy class. It can be obtained by defeati
 Jiquani's Potential Imperial Staff Requires Level 66
 
 胸甲： 幽魂寫照 (Ghostwrithe) —— 大量能量護盾來源。
+薛朗的護身長袍（Shavronne's Wrappings，俗稱大靈主），這是最穩定的解決方案。
 飾品： 均衡之符 (Astramentis)、全能之環 (Hoop of All) —— 撐起全屬性。
 腰帶： 巨磁之石 (The Magnate) —— 提供力量與兩倍/三倍傷害。
 Coruscating Elixir
