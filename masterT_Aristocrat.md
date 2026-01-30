@@ -1,4 +1,11 @@
 ```
+另一個也推，有buylist 用用看。
+Jiquani's Potential Aristocrat ~ My Leaguestarter for Phrecia
+https://www.youtube.com/watch?v=XTEn1ytyx0c
+PoB: https://pobb.in/zKRqmYQ0uOM3 (updated with buylist in notes now)
+
+
+
 https://www.youtube.com/watch?v=ax-9rwB7jWk
 https://mobalytics.gg/poe/profile/mastert/builds/mastert-s-aristocrat-s-potential
 https://pobb.in/F4xzBF7Lcs2y
