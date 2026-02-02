@@ -31,4 +31,6 @@ Jiquani's Potential Imperial Staff Requires Level 66
 飾品： 均衡之符 (Astramentis)、全能之環 (Hoop of All) —— 撐起全屬性。
 腰帶： 巨磁之石 (The Magnate) —— 提供力量與兩倍/三倍傷害。
 Coruscating Elixir
+便宜珠寶
+https://www.pathofexile.com/trade/search/Phrecia%202.0/kybV3e45c5
 ```
