@@ -1,4 +1,9 @@
 ```
+https://www.reddit.com/r/pathofexile/comments/1qm1trj/new_community_tools_phrecia_map_planner_idol/?tl=zh-hant
+https://exilelab.net/regex/index.html
+
+
+
 https://pobarchives.com/build/peUTYWqU
 [PoE 3.25] Self-Sustainable 8-modded map farm for 10 Divine/Hour | Low Budget | Legacy of Phrecia
 🔹 Power Siphon Totem POB:
@@ -21,6 +26,7 @@ https://www.pathofexile.com/trade/search/Phrecia%202.0/EBL4KvQyt5
 古靈凝視 (Eldritch Gaze)： 強化祭壇的加成數值。
 https://www.pathofexile.com/trade/search/Phrecia%202.0/JBLKQr5vsl
 100% 地圖升階： 確保掉落的地圖等級最高。
+https://www.pathofexile.com/trade/search/Phrecia%202.0/nrb7D3j9T0
 
 製圖聖甲蟲．上升 (Escalation)： 增加地圖掉落基礎量。
 製圖聖甲蟲．腐化 (Corruption)： 最關鍵！ 讓所有掉落的地圖直接變成「8 詞綴且已腐化」。這是穩定的收入來源。
