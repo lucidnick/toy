@@ -35,6 +35,10 @@ Jiquani's Potential Imperial Staff Requires Level 66
 腰帶： 巨磁之石 (The Magnate) —— 提供力量與兩倍/三倍傷害。
 Coruscating Elixir
 便宜珠寶 4928 good
+6518 onsought
+6819 dex 5%
+4653 dex 20 speed 5%
+6420 cold 20 dex 20
 https://www.pathofexile.com/trade/search/Phrecia%202.0/kybV3e45c5
 flask
 https://www.pathofexile.com/trade/search/Phrecia%202.0/pJbwEb0Wt0
