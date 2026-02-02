@@ -9,7 +9,10 @@ PoB: https://pobb.in/zKRqmYQ0uOM3 (updated with buylist in notes now)
 https://www.youtube.com/watch?v=ax-9rwB7jWk
 https://mobalytics.gg/poe/profile/mastert/builds/mastert-s-aristocrat-s-potential
 https://pobb.in/F4xzBF7Lcs2y
-
+ENDGAME EXAMPLE POB:
+https://pobb.in/aK0rD6fZmGdu
+DAY 1 UPDATE VIDEO and POB:
+https://youtu.be/ozwlufEZpS0
 
 precursor's release
 The Aul Bloodline is a Bloodline Ascendancy class. It can be obtained by defeating Aul, the Crystal King at the Crystal King's Throne in the Azurite Mine.
@@ -33,4 +36,6 @@ Jiquani's Potential Imperial Staff Requires Level 66
 Coruscating Elixir
 便宜珠寶
 https://www.pathofexile.com/trade/search/Phrecia%202.0/kybV3e45c5
+flask
+https://www.pathofexile.com/trade/search/Phrecia%202.0/pJbwEb0Wt0
 ```
