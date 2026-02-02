@@ -11,6 +11,7 @@ https://pobb.in/TTPK-BGw8Q40
 其中兩個塑像要帶「+2 額外神壇 (Shrines)
 一個要帶「神壇由魔法怪保護」。這能確保每張圖都有 4 個帶有大量魔法怪的神壇。
 儀式 (Ritual)： 另一個塑像選「儀式固定有 4 個祭壇」，增加自然生成的怪物量。
+https://www.pathofexile.com/trade/search/Phrecia%202.0/opbP4jdZUl
 
 Barrier Idol 選擇「增加藍/紅王祭壇出現機率」，確保每張圖都有足夠的祭壇可以點。
 Minor Idols 無盡潮流 (Endless Tide
