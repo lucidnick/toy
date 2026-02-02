@@ -14,6 +14,8 @@ https://pobb.in/TTPK-BGw8Q40
 https://www.pathofexile.com/trade/search/Phrecia%202.0/opbP4jdZUl
 
 Barrier Idol 選擇「增加藍/紅王祭壇出現機率」，確保每張圖都有足夠的祭壇可以點。
+https://www.pathofexile.com/trade/search/Phrecia%202.0/G6jKbPwWUb
+
 Minor Idols 無盡潮流 (Endless Tide
 古靈凝視 (Eldritch Gaze)： 強化祭壇的加成數值。
 100% 地圖升階： 確保掉落的地圖等級最高。
