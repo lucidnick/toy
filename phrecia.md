@@ -17,7 +17,9 @@ Barrier Idol 選擇「增加藍/紅王祭壇出現機率」，確保每張圖都
 https://www.pathofexile.com/trade/search/Phrecia%202.0/G6jKbPwWUb
 
 Minor Idols 無盡潮流 (Endless Tide
+https://www.pathofexile.com/trade/search/Phrecia%202.0/EBL4KvQyt5
 古靈凝視 (Eldritch Gaze)： 強化祭壇的加成數值。
+https://www.pathofexile.com/trade/search/Phrecia%202.0/JBLKQr5vsl
 100% 地圖升階： 確保掉落的地圖等級最高。
 
 製圖聖甲蟲．上升 (Escalation)： 增加地圖掉落基礎量。
@@ -28,6 +30,12 @@ Minor Idols 無盡潮流 (Endless Tide
 受獵叛徒 (Hunted Traitor)： 增加怪物數量、經驗值與掉寶。
 譫妄聖甲蟲 (Delirium)： 為地圖加上譫妄層數，讓掉落的 T16 8 詞綴圖更值錢。
 地圖裝置開啟 「支配 (Domination)」
+
+密教情報
+https://www.pathofexile.com/trade/search/Phrecia%202.0/8rg5VBVvFV
+物品稀有度
+https://www.pathofexile.com/trade/search/Phrecia%202.0/LgLKRk9GIn
+
 
 https://www.youtube.com/watch?v=MVIwt7mp1rM
 [PoE 1] Low Budget EXP Farm Strategy with Abyss & Betrayal | Phrecia Event
