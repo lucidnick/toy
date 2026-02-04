@@ -42,4 +42,17 @@ Coruscating Elixir
 https://www.pathofexile.com/trade/search/Phrecia%202.0/kybV3e45c5
 flask
 https://www.pathofexile.com/trade/search/Phrecia%202.0/pJbwEb0Wt0
+
+
+作者利用「雙重污染 (Double Corrupt)」與「污染催化劑 (Tainted Catalyst)」
+懺悔烙印．消散 (Penance Brand of Dissipation)
+其他嘗試： 霹靂鞭、冰霜脈衝、冬球、神聖哀悼等
+
+Concentrated Effect 20/23 Default  1
+Swiftbrand 20/20 Default  1
+Inspiration 20/0 Default  1
+Hypothermia 20/20 Default  1
+Arcane Surge 20/20 Default  1
+Penance Brand of Dissipation 20/20 Default  1
+https://www.pathofexile.com/trade/search/Phrecia%202.0/OgLKOLrghE
 ```
