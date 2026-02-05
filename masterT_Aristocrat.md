@@ -3,6 +3,12 @@
 https://www.pathofexile.com/trade/search/Phrecia%202.0/jWbJYz8oSX
 手套
 https://www.pathofexile.com/trade/search/Phrecia%202.0/3qXekoWPC5
+頭盔
+https://www.pathofexile.com/trade/search/Phrecia%202.0/5nm3pe5jSa
+鞋子
+https://www.pathofexile.com/trade/search/Phrecia%202.0/d8g4qEyqFJ
+三相
+https://www.pathofexile.com/trade/search/Phrecia%202.0/Z6YZY5KYuQ
 
 另一個也推，有buylist 用用看。
 Jiquani's Potential Aristocrat ~ My Leaguestarter for Phrecia
