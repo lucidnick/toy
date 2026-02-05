@@ -302,7 +302,17 @@ Nearby Enemies take 6% increased Elemental Damage
 {tags:resource,life}{crafted}{range:0.5}(7-8)% increased Life Regeneration rate
 +8% increased Life Regeneration rate
 守衛頭
-https://www.pathofexile.com/trade/search/Keepers/PPbBWg9gUL
+https://www.pathofexile.com/trade/search/Phrecia%202.0/V5mgE46gtp
+守衛盾
+https://www.pathofexile.com/trade/search/Phrecia%202.0/3qXermq5C5
+
+
+守衛腳
+Legacy of Fury
+https://www.pathofexile.com/trade/search/Phrecia%202.0/4mXvXJPvc9
+Nearby enemies are scorched
+50% Increased Effect of Scorch
+
 
 Soul Taker
 https://www.pathofexile.com/trade/search/Keepers/LgBKnjg7Tn
