@@ -42,6 +42,8 @@ Perfect Forest Warrior
 (Onslaught and Culling Strike)
 https://www.pathofexile.com/trade/search/Phrecia%202.0/9zQDXG6QtK
 
+棒子
+https://www.pathofexile.com/trade/search/Phrecia%202.0/9zQD9gV8SK
 衣服
 https://www.pathofexile.com/trade/search/Phrecia%202.0/jWbJYz8oSX
 https://www.pathofexile.com/trade/search/Phrecia%202.0/EBLdEPaRT5
