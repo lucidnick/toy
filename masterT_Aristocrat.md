@@ -1,7 +1,8 @@
 ```
 衣服
 https://www.pathofexile.com/trade/search/Phrecia%202.0/jWbJYz8oSX
-
+手套
+https://www.pathofexile.com/trade/search/Phrecia%202.0/3qXekoWPC5
 
 另一個也推，有buylist 用用看。
 Jiquani's Potential Aristocrat ~ My Leaguestarter for Phrecia
