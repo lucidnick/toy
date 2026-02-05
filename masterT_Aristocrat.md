@@ -48,6 +48,7 @@ https://www.pathofexile.com/trade/search/Phrecia%202.0/EBLdEPaRT5
 https://www.pathofexile.com/trade/search/Phrecia%202.0/kybJBLVWC5
 手套
 https://www.pathofexile.com/trade/search/Phrecia%202.0/3qXekoWPC5
+https://www.pathofexile.com/trade/search/Phrecia%202.0/jWbJeR7dsX
 頭盔
 https://www.pathofexile.com/trade/search/Phrecia%202.0/5nm3pe5jSa
 鞋子
