@@ -1,4 +1,31 @@
 ```
+DAY 3 POB:
+https://pobb.in/bEJcGRsOc-8i
+ATTRIBUTE JEWEL TREE RECIPE:
+Inc chance for jewels
+inc chance for attributes
+inc chance for Speed
+Inc chance for lightning
+Less chance for mana
+Less chance for attack
+Less chance for cold
+
+Animate Guardian Stats:
+Dying Breath:
+18% increased Damage
+Nearby Enemies have 18% increased effect of curses on them
+Legacy of Fury:
+Nearby enemies are scorched
+50% Increased Effect of Scorch
+
+Spectres:
+Perfect Spirit of Fortune
+https://www.pathofexile.com/trade/search/Phrecia%202.0/LgL2bW02fn
+(Wrath and Lucky Damage)
+Perfect Forest Warrior
+(Onslaught and Culling Strike)
+https://www.pathofexile.com/trade/search/Phrecia%202.0/9zQDXG6QtK
+
 衣服
 https://www.pathofexile.com/trade/search/Phrecia%202.0/jWbJYz8oSX
 手套
