@@ -302,17 +302,24 @@ Nearby Enemies take 6% increased Elemental Damage
 {tags:resource,life}{crafted}{range:0.5}(7-8)% increased Life Regeneration rate
 +8% increased Life Regeneration rate
 守衛頭
-https://www.pathofexile.com/trade/search/Phrecia%202.0/V5mgE46gtp
+https://www.pathofexile.com/trade/search/Phrecia%202.0/9zQDWjBYHK
 守衛盾
 https://www.pathofexile.com/trade/search/Phrecia%202.0/3qXermq5C5
-
-
+https://www.pathofexile.com/trade/search/Phrecia%202.0/7ngKq2aru5
+守衛武器
+Aurumvorax Basket Rapier
+https://www.pathofexile.com/trade/search/Phrecia%202.0/2KP9yWYVIk
+Replica Advancing Fortress Gut Ripper
+https://www.pathofexile.com/trade/search/Phrecia%202.0/D6VKPQjvt5
+守衛衣服
+https://www.pathofexile.com/trade/search/Phrecia%202.0/q92jenZ9Ug
 守衛腳
 Legacy of Fury
 https://www.pathofexile.com/trade/search/Phrecia%202.0/4mXvXJPvc9
 Nearby enemies are scorched
 50% Increased Effect of Scorch
 
+https://pobb.in/9nw_Kqgx9imz
 
 Soul Taker
 https://www.pathofexile.com/trade/search/Keepers/LgBKnjg7Tn
@@ -345,6 +352,7 @@ https://www.pathofexile.com/trade/search/Keepers/Wv6lEjdbum
 https://www.pathofexile.com/trade/search/Keepers/Lg5V03QBtn
 https://www.pathofexile.com/trade/search/Keepers/Md370Kd5FJ
 https://www.pathofexile.com/trade/search/Keepers/3qLyVyY9f5
+詛咒手 https://www.pathofexile.com/trade/search/Phrecia%202.0/WvQ6KVqvHm
 
 Replica Volkuur's Guidance
 Curse Enemies with Elemental Weakness on Hit
