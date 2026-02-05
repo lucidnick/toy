@@ -1,4 +1,20 @@
 ```
+手手
++3% to all Elemental Resistances
+Uses level 30 Preserving Stillness
++14% to Global Critical Strike Multiplier
+73% increased Graftblood stored
+Skills used by this Graft have 29% increased Cooldown Recovery Rate
+Preserving Stillness used by this Graft also grants +2% to all maximum Elemental Resistances
+https://www.pathofexile.com/trade/search/Phrecia%202.0/8rgd9JGvhV
+
+3% additional Physical Damage Reduction
+Uses level 29 Tender Embrace
+29% increased Stun Threshold
+77% increased chance to find Lavish Wombgifts
+Buff granted by Tender Embrace used by this Graft grants 10% more Life Recovery Rate
+https://www.pathofexile.com/trade/search/Phrecia%202.0/MdkBajGyFJ
+
 DAY 3 POB:
 https://pobb.in/bEJcGRsOc-8i
 ATTRIBUTE JEWEL TREE RECIPE:
@@ -28,6 +44,8 @@ https://www.pathofexile.com/trade/search/Phrecia%202.0/9zQDXG6QtK
 
 衣服
 https://www.pathofexile.com/trade/search/Phrecia%202.0/jWbJYz8oSX
+https://www.pathofexile.com/trade/search/Phrecia%202.0/EBLdEPaRT5
+https://www.pathofexile.com/trade/search/Phrecia%202.0/kybJBLVWC5
 手套
 https://www.pathofexile.com/trade/search/Phrecia%202.0/3qXekoWPC5
 頭盔
