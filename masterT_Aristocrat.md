@@ -1,4 +1,6 @@
 ```
+https://poe.ninja/poe1/builds/phrecia2.0/character/anotherchoice-1222/AnotherPhrecia?i=0&search=class%3DAristocrat%26items%3DJiquani%2527s%2BPotential%252C!Mageblood%26skills%3DSpark%2Bof%2Bthe%2BNova%26supportgems-Spark%2520of%2520the%2520Nova%3D!Pierce%2BSupport%252C!Faster%2BProjectiles%2BSupport%252C!Trap%2Band%2BMine%2BDamage%2BSupport
+
 星團
 https://www.pathofexile.com/trade/search/Phrecia%202.0/X3labbnWIP
 
